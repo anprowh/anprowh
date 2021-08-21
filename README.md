@@ -48,7 +48,7 @@ Olympiads:
 Projects:
 - PathFinding GUI - Python - demonstrates, how different pathfinding algorithms work. Has Web and window versions.
 - Language corrector - Python - script that runs in background and adds hotkey that corrects text if you have written it in a wrong keyboard layout
-- Food Registration - C++ and QT - mobile app written I have written in school to register who in my class is going to eat in canteen
+- Food Registration - C++ and QT - mobile app I have written when I was in school to register who in my class is going to eat in canteen
 
 
 
