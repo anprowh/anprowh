@@ -4,7 +4,7 @@ I am Computer Science student in ITMO University 🎓
 
 I like to develop scripts and programs 💻
 
-### My skills
+### 📚 Skills
 
 Here is a list of my skills, habits and little descriptions so you can understand my level
 
@@ -21,7 +21,7 @@ Therefore I can acquire new skills fast and do debugging without help
   - have used different modules to write scripts I need (keyboard, pyperclip, sys, os, etc)
 - 🤖 Data Science - tensorflow, scikit learn, numpy, pandas - 
 I had some experience working with these modules. Preparing data for ANNs, doing a little of feature engineering. 
-I know base principle of ANNs and some other machine learning models.
+I know base principle of ANNs and some other machine learning models. No results I can show yet.
 - 🌐 Web programming: 
   - Know and have a little experience with HTML, CSS, JavaScript 
   - React.js - have written a one page site for my pathfinding algorithm demonstration
@@ -35,6 +35,21 @@ I know base principle of ANNs and some other machine learning models.
   - Testing - JUnit tests
   - Threads and Concurrency
 - 💾 Data bases - had a course about data bases on which I learned about SQL (mostly SELECT queries), NoSQL: Reddis, MongoDB, Cassandra, Neo4j
+- Linux bash - had a course about using bash and had some experience using bash for my purposes on a basic level
+
+
+### ✨ Achievements
+
+Olympiads:
+- All-Russian School Olympiad in Maths 2020 - Regional stage - Prize Winner (3rd place)
+- All-Russian School Olympiad in Informatics 2020 - Regional stage - Prize Winner (2nd place)
+- NTI Contest - Big Data and Machine Learning
+
+Projects:
+- PathFinding GUI - Python - demonstrates, how different pathfinding algorithms work. Has Web and window versions.
+- Language corrector - Python - script that runs in background and adds hotkey that corrects text if you have written it in a wrong keyboard layout
+- Food Registration - C++ and QT - mobile app written I have written in school to register who in my class is going to eat in canteen
+
 
 
 
