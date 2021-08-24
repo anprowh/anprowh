@@ -31,7 +31,6 @@ I know base principle of ANNs and some other machine learning models. No results
 - Java - have been learning it in the University:
   - Know syntax
   - Collections
-  - Threading
   - Testing - JUnit tests
   - Threads and Concurrency
 - 💾 Data bases - had a course about data bases on which I learned about SQL (mostly SELECT queries), NoSQL: Reddis, MongoDB, Cassandra, Neo4j
@@ -51,6 +50,22 @@ Projects:
 - Food Registration - C++ and QT - mobile app I have written when I was in school to register who in my class is going to eat in canteen
 
 
+### Little BIO
+
+I have first started programing when I was in 6th grade (12-13 y.o.). I was writing scripts for Minecraft PE (in simple text editor, btw). 
+
+Then in 8th grade I was mostly programming in Pascal for Olympiads, having good results, but also have been writing "programms" in command blocks in Minecraft. 
+Moreover, I've created a window application in Pascal that returns a sequence of commands for these command blocks so they are adding a special behaviour to the world.
+
+In 9th grade I learned C++ and started using it in Olympiads.
+
+In 10th grade I started learning English a lot and had a significant progress in one year. The allowed me to watch Code Train YouTube channel. 
+Then I started writing different graphic applications in Java Processing environment, like ball bouncing simulation.
+Moreover I created Food Registration project.
+
+In 11th grade I started learning Python. I mostly used it on the Olympiad. After Python I took the course about Neural Networks and how they work. Then I started trying to use tensorflow. I haven't had much of successful networks, but it was fun. By the end of the year I've read book "Hand on Machine Learning with Scikit Learn and TensorFlow, where learned about different machine learning algorithms and autodif.
+
+On the first course I've been mostly programming in Java for University course. And by the end have made Pathfinding GUI project.
 
 
 <!--
