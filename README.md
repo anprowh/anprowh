@@ -65,7 +65,7 @@ Moreover I created Food Registration project.
 
 In 11th grade I started learning Python. I mostly used it on the Olympiad. After Python I took the course about Neural Networks and how they work. Then I started trying to use tensorflow. I haven't had much of successful networks, but it was fun. By the end of the year I've read book "Hand on Machine Learning with Scikit Learn and TensorFlow, where learned about different machine learning algorithms and autodif.
 
-On the first course I've been mostly programming in Java for University course. And by the end have made Pathfinding GUI project.
+On the first course I've been mostly programming in Java for the University course. And by the end have made Pathfinding GUI project.
 
 
 <!--
