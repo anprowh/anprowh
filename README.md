@@ -8,33 +8,34 @@ I like to develop scripts and programs 💻
 
 Here is a list of my skills, habits and little descriptions so you can understand my level
 
-- Maths - I have participated and got some results on Olympiads. Performing well in the University
-- OOP - Have experience working with it
+- Maths - I have participated and succeeded in some School competitions on regional level. Performing well in the University
+- OOP - Have experience
 - Algorithms and data stuctures - have been doing competitive programming
-- Variable naming - I am used to give variables meaningful names
-- Searching for info - I think I am pretty good at searching for info needed for programming. 
 Therefore I can acquire new skills fast and do debugging without help
 - 🐍 Python programming in general:
-  - Know PEP conventions
-  - Know and have used most of useful keywords
-  - Like to write simple actions in one line (list comprehensions, ternary operators etc)
-  - have used different modules to write scripts I need (keyboard, pyperclip, sys, os, etc)
+  - Generally aware of PEP conventions
+  - Have extensive experience using different modules to solve problems I have, which increases my productivity
+  - Use this language very often to solve my daily tasks and write projects
 - 🤖 Data Science - tensorflow, scikit learn, numpy, pandas - 
-I had some experience working with these modules. Preparing data for ANNs, doing a little of feature engineering. 
-I know base principle of ANNs and some other machine learning models. No results I can show yet.
+I had some experience working with these modules. Preparing data for ANNs, doing a feature engineering. 
+I know base principle of ANNs and some other machine learning algorithms. One of my biggest successes is CNN for eye tracking.
 - 🌐 Web programming: 
-  - Know and have a little experience with HTML, CSS, JavaScript 
-  - React.js - have written a one page site for my pathfinding algorithm demonstration
-  - FastAPI - have written a simple REST API for my pathfinding algorithm demonstration as a backend
-  - Vue.js - currently learning
-- C++ - know syntax, have some experience when was doing competitive programming
-- Java - have been learning it in the University:
+  - Know and have some experience with HTML, CSS, JavaScript 
+  - React.js - have used in 2 projects
+  - FastAPI - often use for projects or simple tasks
+- C++:
+  - have experience doing competitive programming
+  - Have interesting projects utilizing Windows API, OpenVR API, GPU computing (CUDA, OpenGL)
+  - As a University task have written Linux core module, raw bmp file reader etc.
+- Java - have been learning in the University:
   - Know syntax
   - Collections
   - Testing - JUnit tests
   - Threads and Concurrency
-- 💾 Data bases - had a course about data bases on which I learned about SQL (mostly SELECT queries), NoSQL: Reddis, MongoDB, Cassandra, Neo4j
-- Linux bash - had a course about using bash and had some experience using bash for my purposes on a basic level
+- 💾 Data bases
+  - have experience working with PostgreSQL in multiple projects + had multiple couses on it in University
+  - Aware of different types of DB
+- Linux bash - use linux commands on daily basis
 
 
 ### ✨ Achievements
@@ -42,31 +43,23 @@ I know base principle of ANNs and some other machine learning models. No results
 Olympiads:
 - All-Russian School Olympiad in Maths 2020 - Regional stage - Prize Winner (3rd place)
 - All-Russian School Olympiad in Informatics 2020 - Regional stage - Prize Winner (2nd place)
-- NTI Contest - Big Data and Machine Learning
+- NTI Contest - Big Data and Machine Learning Finalist
 
 Projects:
+- SteamVR eye tracking using neural network (SteamVR driver + Python TensorFlow).
+- Base32 codec - program for encoding / decoding from Base32 through Windows context menu.
 - PathFinding GUI - Python - demonstrates, how different pathfinding algorithms work. Has Web and window versions.
-- Language corrector - Python - script that runs in background and adds hotkey that corrects text if you have written it in a wrong keyboard layout
-- Food Registration - C++ and QT - mobile app I have written when I was in school to register who in my class is going to eat in canteen
+- etc
 
 
-### Little BIO
+### A Little Bit About Me
 
-I have first started programing when I was in 6th grade (12-13 y.o.). I was writing scripts for Minecraft PE (in simple text editor, btw). 
+I have first started programing when I was in 6th grade (12-13 y.o.). I was writing scripts for Minecraft PE (in simple text editor, BTW). 
 
-Then in 8th grade I was mostly programming in Pascal for Olympiads, having good results, but also have been writing "programms" in command blocks in Minecraft. 
-Moreover, I've created a window application in Pascal that returns a sequence of commands for these command blocks so they are adding a special behaviour to the world.
+After then I started participating in competitions, learning new technologies, using those for my projects. 
+Programming is specially fun, when you have real problem you face and you can solve it through code 😊
 
-In 9th grade I learned C++ and started using it in Olympiads.
-
-In 10th grade I started learning English a lot and had a significant progress in one year. The allowed me to watch Code Train YouTube channel. 
-Then I started writing different graphic applications in Java Processing environment, like ball bouncing simulation.
-Moreover I created Food Registration project.
-
-In 11th grade I started learning Python. I mostly used it on the Olympiad. After Python I took the course about Neural Networks and how they work. Then I started trying to use tensorflow. I haven't had much of successful networks, but it was fun. By the end of the year I've read book "Hand on Machine Learning with Scikit Learn and TensorFlow, where learned about different machine learning algorithms and autodif.
-
-On the first course I've been mostly programming in Java for the University course. And by the end have made Pathfinding GUI project.
-
+Currently I am looking for job opportunities, while finishing my High School education.
 
 <!--
 **anprowh/anprowh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
