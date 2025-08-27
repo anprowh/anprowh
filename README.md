@@ -15,25 +15,22 @@ Looking to change career and start working as ML Engineer.
   - FastAPI, Flask
 - 🤖 Data Science:
   - tensorflow, scikit learn, numpy, pandas - Have extensively used for academic projects.
-  - Passionate about data parsing, regular expressions usage
+  - Passionate about data engineering.
 - 🌐 Web programming: 
-  - Know and have some experience with HTML, CSS, JavaScript 
-  - FastAPI - often utilize for projects or simple tasks
+  - Have some experience with HTML, CSS, JavaScript 
+  - FastAPI - regularly utilize for projects or simple tasks
 - C++:
   - Competitive programming
   - Have projects utilizing Windows API, OpenVR API, GPU computing (CUDA, OpenGL)
   - Have work experience of developing modular applications utilizing design patterns, CMake, writing unit tests.
 - 💾 Data Bases
-  - have experience working with PostgreSQL in multiple projects + had multiple courses in University
-  - Aware of different types of DB
+  - have experience working with PostgreSQL in multiple projects
 - Linux bash - use linux commands on daily basis
 
 
 ### ✨ Achievements
 
 Olympiads:
-- All-Russian School Olympiad in Maths 2020 - Regional stage - Prize Winner (3rd place)
-- All-Russian School Olympiad in Informatics 2020 - Regional stage - Prize Winner (2nd place)
 - NTI Contest - Big Data and Machine Learning Finalist
 
 Projects:
@@ -45,9 +42,9 @@ Projects:
 
 ### A Little Bit About Me
 
-I have first started programing when I was in 6th grade (12-13 y.o.). I was writing scripts for Minecraft PE (in simple text editor, BTW). 
+I have started programing when I was 12 y.o.. I was writing scripts for Minecraft PE. 
 
-After then I started participating in competitions, learning new technologies, using those for my projects. 
+Then I started participating in competitions, learning new technologies, using them for my projects. 
 Programming is specially fun, when you have real problem you face and you can solve it through code 😊
 
 
